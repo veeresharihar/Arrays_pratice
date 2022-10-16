@@ -1,0 +1,15 @@
+It is a storage that is used to store dataand organize data. It is the way of arraging the data so that it can be accessed and updated easily.
+
+Data structures are 2 types : Linear and Non-Linear
+
+Linear: data elements are arranged in linaer or sequence
+
+Non-Linear: data elements are not arranaged in sequence
+
+Linear has 2 types : static and dynamic
+
+static:has fixed size-->array
+
+dynamic: doesnot have any fixed size-->stack,queue,linked list
+
+Non-linear has 2 types : trees and graphs
